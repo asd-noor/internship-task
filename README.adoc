@@ -1,0 +1,21 @@
+= Task for Internship
+:Author: Asaduzzaman Noor
+:Email:  asad.noor.antor@gmail.com
+:toc:
+:toc-placement!:
+
+Task assigned to me for internship.
+
+toc::[]
+
+== Agenda
+I need to create an interactive page which has some clickable products.
+Products, if clicked, will be added to cart which is situated at the right
+side of the page.
+
+== Functionality Implemented
+. Search / Filter Works.
+. Items can be added to cart by clicking.
+. Items can be removed from cart with the delete button.
+  * Item count is shown at the right top of the image.
+  * If the item is added more than once, clicking on delete button will reduce the item count.
