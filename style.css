@@ -120,6 +120,7 @@ body {
     display: flex;
     align-items: center;
     gap: 5px;
+    border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
 .cart__item::before {
@@ -136,16 +137,6 @@ body {
     font-weight: 900;
     text-align: center;
     content: attr(data-count);
-}
-
-.cart__item::after {
-    position: absolute;
-    content: '';
-    bottom: 0;
-    left: 0;
-    height: 1px;
-    width: 100%;
-    background-color: rgba(0,0,0,0.2);
 }
 
 .cart__item > img {
