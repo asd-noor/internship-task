@@ -16,6 +16,7 @@ side of the page.
 == Functionality Implemented
 . Search / Filter Works.
 . Items can be added to cart by clicking.
+. Price is calculated in the widget bottom-right corner.
 . Items can be removed from cart with the delete button.
   * Item count is shown at the right top of the image.
   * If the item is added more than once, clicking on delete button will reduce the item count.
